@@ -1,2 +1,1 @@
-# rpi-influxdb
-Raspberry Pi - InfluxDB - Debian Stretch
+## Raspberry Pi - InfluxDB - Debian Stretch
